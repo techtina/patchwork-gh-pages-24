@@ -1,28 +1,25 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://www.google.com/search?site=&tbm=isch&source=hp&biw=1366&bih=667&q=food+fashion+fitness&oq=food+fashion+fitness&gs_l=img.3...1686.4525.0.4766.20.8.0.12.12.0.67.398.8.8.0....0...1ac.1.64.img..0.14.413...0.ysJcu5Z7tKA#imgrc=eJRdwJvrLc6ScM%3A"
+name: "Tina Mathew"
+title: "MBA Candidate"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Tina is a full-time MBA student dual concentrating in Information Systems and Marketing. *
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+She has over six years of sales experience and has a background in retail management. She is a diversified individual with degrees in psychology and philosophy. Tina loves to code and wants to land a career in the tech sector. 
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Tina is available for beginner-friendly projects as she is a newbie to the world of coding. Some of her other interests include:
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+#### Food
+*yelp fanatic
+*food truck lover
+*queen of the kitchen
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
+#### Fashion
+*volunteer stylist
+*visual merchandiser
+*shoe hoarder
 
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### Fitness
+* Hiker
+* Runner
